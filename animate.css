@@ -201,3 +201,9 @@ div[data-anim~=base] {
 /* ****************************************** */
 /* Progress Circle Animation w/jQuery Library */ 
 /*         Add jsFiddle CSS code here         */
+#container {
+  margin: 20px;
+  width: 200px;
+  height: 200px;
+  position: relative;
+}
